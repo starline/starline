@@ -1,6 +1,6 @@
 <!-- github.com/starline -->
 <p align="center">
-  <img src="./assets/banner.svg" alt="Andri Huga - starline" width="100%"/>
+  <img src="https://raw.githubusercontent.com/starline/starline/main/assets/banner.png" alt="Andri Huga - starline" width="100%"/>
 </p>
 
 <h1 align="center">Hi, I'm Andri Huga! :wave:</h1>
@@ -40,8 +40,8 @@
 <h3 align="center">:bar_chart: GitHub Stats</h3>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=starline&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0B1220&amp;title_color=22D3EE&amp;icon_color=34D399&amp;text_color=E2E8F0" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=starline&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0B1220&amp;title_color=22D3EE&amp;text_color=E2E8F0&amp;langs_count=8" alt="Top languages"/>
+  <img height="165" src="https://raw.githubusercontent.com/starline/starline/main/assets/github-stats.svg" alt="GitHub stats"/>
+  <img height="165" src="https://raw.githubusercontent.com/starline/starline/main/assets/top-langs.svg" alt="Top languages"/>
 </p>
 
 <p align="center">
