@@ -7,7 +7,7 @@
 
 <p align="center">
   <b>Full-stack developer</b> building ecommerce, SaaS, and AI agent tools<br/>
-  <code>HugaShop</code> · <code>HugSales</code> · <code>CursorTgBot</code>
+  <code>HugaShop</code> | <code>CursorTgBot</code> | Chrome extensions
 </p>
 
 <p align="center">
@@ -19,7 +19,7 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/starline/starline/main/assets/features-strip.png" alt="Remote coding · Follow-ups · Tests · Diff · Real results" width="90%"/>
+  <img src="https://raw.githubusercontent.com/starline/starline/main/assets/features-strip.png" alt="Remote coding / Follow-ups / Tests / Diff / Real results" width="90%"/>
 </p>
 
 ---
@@ -33,7 +33,7 @@
 </p>
 
 <p align="center">
-  Telegram ? Cursor Agent ? Local Git Repo<br/>
+  Telegram to Cursor Agent to Local Git Repo<br/>
   Remote coding via <code>/task</code>, follow-ups, <code>/diff</code> and tests.
 </p>
 
@@ -63,7 +63,7 @@
 
 ---
 
-<h3 align="center">:package: Products</h3>
+<h3 align="center">:package: Public Projects</h3>
 
 <table>
   <tr>
@@ -74,22 +74,8 @@
       <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&amp;logo=php&amp;logoColor=white" alt="PHP"/>
     </td>
     <td width="33%" valign="top" align="center">
-      <h4><a href="https://github.com/starline/HugSalesSaaS">HugSales SaaS</a></h4>
-      <p>Multi-tenant ecommerce<br/>SaaS around HugaShop</p>
-      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&amp;logo=php&amp;logoColor=white" alt="PHP"/>
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&amp;logo=docker&amp;logoColor=white" alt="Docker"/>
-    </td>
-    <td width="33%" valign="top" align="center">
-      <h4><a href="https://github.com/starline/HugaShopReact">HugaShopReact</a></h4>
-      <p>Modern React / TypeScript<br/>storefront front-end</p>
-      <img src="https://img.shields.io/badge/TS-3178C6?style=flat-square&amp;logo=typescript&amp;logoColor=white" alt="TS"/>
-      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&amp;logo=react&amp;logoColor=black" alt="React"/>
-    </td>
-  </tr>
-  <tr>
-    <td width="33%" valign="top" align="center">
       <h4><a href="https://github.com/starline/CursorTgBot">CursorTgBot</a></h4>
-      <p>Telegram ? Cursor Agent<br/>remote coding on your machine</p>
+      <p>Telegram to Cursor Agent<br/>remote coding on your machine</p>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python"/>
       <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&amp;logo=telegram&amp;logoColor=white" alt="Telegram"/>
     </td>
@@ -99,11 +85,23 @@
       <img src="https://img.shields.io/badge/JS-F7DF1E?style=flat-square&amp;logo=javascript&amp;logoColor=black" alt="JS"/>
       <img src="https://img.shields.io/badge/Chrome-4285F4?style=flat-square&amp;logo=googlechrome&amp;logoColor=white" alt="Chrome"/>
     </td>
+  </tr>
+  <tr>
     <td width="33%" valign="top" align="center">
-      <h4><a href="https://github.com/starline/TelegramPersonalBot">TelegramPersonalBot</a></h4>
-      <p>Personal assistant bot<br/>built with TypeScript</p>
+      <h4><a href="https://github.com/starline/phpSmartyShop">phpSmartyShop</a></h4>
+      <p>Smarty-based shop<br/>classic PHP ecommerce</p>
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&amp;logo=php&amp;logoColor=white" alt="PHP"/>
+    </td>
+    <td width="33%" valign="top" align="center">
+      <h4><a href="https://github.com/starline/Next.js.simple">Next.js.simple</a></h4>
+      <p>Next.js starter<br/>TypeScript front-end</p>
       <img src="https://img.shields.io/badge/TS-3178C6?style=flat-square&amp;logo=typescript&amp;logoColor=white" alt="TS"/>
-      <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&amp;logo=telegram&amp;logoColor=white" alt="Telegram"/>
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&amp;logo=nextdotjs&amp;logoColor=white" alt="Next.js"/>
+    </td>
+    <td width="33%" valign="top" align="center">
+      <h4><a href="https://github.com/starline/DokerProxyScrapper">DokerProxyScrapper</a></h4>
+      <p>Proxy scraper<br/>Dockerized tooling</p>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&amp;logo=docker&amp;logoColor=white" alt="Docker"/>
     </td>
   </tr>
 </table>
@@ -136,7 +134,7 @@
 <td width="48%" valign="top">
 
 ### :sparkles: Focus
-- Ecommerce CMS and multi-account SaaS
+- Ecommerce CMS platforms
 - Browser extensions and scraping pipelines
 - Telegram bots + AI / agent automation
 - Dockerized PHP and Node deployments
