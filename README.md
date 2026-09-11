@@ -7,7 +7,7 @@
 
 <p align="center">
   <b>Full-stack developer</b> building ecommerce, SaaS, and AI agent tools<br/>
-  <code>HugaShop</code> | <code>CursorTgBot</code> | Chrome extensions
+  <code>CursorTgBot</code> · <code>UscisPyton</code> · <code>ChromeAutoScraperExtension</code>
 </p>
 
 <p align="center">
@@ -18,24 +18,57 @@
 
 ---
 
-<h3 align="center">:rocket: Featured: CursorTgBot</h3>
+<h3 align="center">:package: Projects</h3>
 
-<p align="center">
-  <a href="https://github.com/starline/CursorTgBot">
-    <img src="https://raw.githubusercontent.com/starline/starline/main/assets/cursor-tgbot.png" alt="CursorTgBot - Code from anywhere" width="100%"/>
-  </a>
-</p>
-
-<p align="center">
-  Telegram to Cursor Agent to Local Git Repo<br/>
-  Remote coding via <code>/task</code>, follow-ups, <code>/diff</code> and tests.
-</p>
-
-<p align="center">
-  <a href="https://github.com/starline/CursorTgBot">
-    <img src="https://img.shields.io/badge/Open_CursorTgBot-007AFF?style=for-the-badge&amp;logo=telegram&amp;logoColor=white" alt="Open CursorTgBot"/>
-  </a>
-</p>
+<table>
+  <tr>
+    <td width="33%" valign="top" align="center">
+      <a href="https://github.com/starline/CursorTgBot">
+        <img src="https://raw.githubusercontent.com/starline/starline/main/assets/projects/cursor-tgbot.jpg" alt="CursorTgBot preview" width="100%"/>
+      </a>
+      <h3><a href="https://github.com/starline/CursorTgBot">CursorTgBot</a></h3>
+      <p>
+        Telegram bot that drives a Cursor local agent on your machine —
+        remote coding via <code>/task</code>, follow-ups, <code>/diff</code> and tests.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python"/>
+        <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&amp;logo=telegram&amp;logoColor=white" alt="Telegram"/>
+        <img src="https://img.shields.io/badge/Cursor_SDK-0F172A?style=flat-square" alt="Cursor SDK"/>
+      </p>
+    </td>
+    <td width="33%" valign="top" align="center">
+      <a href="https://github.com/starline/UscisPyton">
+        <img src="https://raw.githubusercontent.com/starline/starline/main/assets/projects/uscis-pyton.jpg" alt="UscisPyton preview" width="100%"/>
+      </a>
+      <h3><a href="https://github.com/starline/UscisPyton">UscisPyton</a></h3>
+      <p>
+        Bulk-download USCIS AAO non-precedent decision PDFs and summarize
+        beneficiary roles and denial rationales with OpenAI.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python"/>
+        <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&amp;logo=openai&amp;logoColor=white" alt="OpenAI"/>
+        <img src="https://img.shields.io/badge/PDF-DC2626?style=flat-square" alt="PDF"/>
+      </p>
+    </td>
+    <td width="33%" valign="top" align="center">
+      <a href="https://github.com/starline/ChromeAutoScraperExtension">
+        <img src="https://raw.githubusercontent.com/starline/starline/main/assets/projects/chrome-auto-scraper.jpg" alt="ChromeAutoScraperExtension preview" width="100%"/>
+      </a>
+      <h3><a href="https://github.com/starline/ChromeAutoScraperExtension">Chrome Auto Scraper</a></h3>
+      <p>
+        Chrome extension that parses IAAI and Copart lot pages and copies
+        vehicle data to the clipboard as TSV for Google Sheets.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&amp;logo=javascript&amp;logoColor=black" alt="JavaScript"/>
+        <img src="https://img.shields.io/badge/Chrome_Extension-4285F4?style=flat-square&amp;logo=googlechrome&amp;logoColor=white" alt="Chrome"/>
+        <img src="https://img.shields.io/badge/Manifest_V3-0F172A?style=flat-square" alt="MV3"/>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -54,51 +87,6 @@
   <img src="https://img.shields.io/badge/React-F8FAFC?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB" alt="React"/>
   <img src="https://img.shields.io/badge/Docker-F8FAFC?style=for-the-badge&amp;logo=docker&amp;logoColor=2496ED" alt="Docker"/>
 </p>
-
----
-
-<h3 align="center">:package: Public Projects</h3>
-
-<table>
-  <tr>
-    <td width="33%" valign="top" align="center">
-      <h4><a href="https://github.com/starline/HugaShop">HugaShop</a></h4>
-      <p>Ecommerce CMS<br/>catalog, checkout, storefront</p>
-      <img src="https://img.shields.io/badge/JS-F7DF1E?style=flat-square&amp;logo=javascript&amp;logoColor=black" alt="JS"/>
-      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&amp;logo=php&amp;logoColor=white" alt="PHP"/>
-    </td>
-    <td width="33%" valign="top" align="center">
-      <h4><a href="https://github.com/starline/CursorTgBot">CursorTgBot</a></h4>
-      <p>Telegram to Cursor Agent<br/>remote coding on your machine</p>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python"/>
-      <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&amp;logo=telegram&amp;logoColor=white" alt="Telegram"/>
-    </td>
-    <td width="33%" valign="top" align="center">
-      <h4><a href="https://github.com/starline/ChromeAutoScraperExtension">Chrome Extensions</a></h4>
-      <p>Scraper, photos, proxy<br/>browser automation</p>
-      <img src="https://img.shields.io/badge/JS-F7DF1E?style=flat-square&amp;logo=javascript&amp;logoColor=black" alt="JS"/>
-      <img src="https://img.shields.io/badge/Chrome-4285F4?style=flat-square&amp;logo=googlechrome&amp;logoColor=white" alt="Chrome"/>
-    </td>
-  </tr>
-  <tr>
-    <td width="33%" valign="top" align="center">
-      <h4><a href="https://github.com/starline/phpSmartyShop">phpSmartyShop</a></h4>
-      <p>Smarty-based shop<br/>classic PHP ecommerce</p>
-      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&amp;logo=php&amp;logoColor=white" alt="PHP"/>
-    </td>
-    <td width="33%" valign="top" align="center">
-      <h4><a href="https://github.com/starline/phpTelegramBotGame">phpTelegramBotGame</a></h4>
-      <p>Telegram game bot<br/>PHP backend</p>
-      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&amp;logo=php&amp;logoColor=white" alt="PHP"/>
-      <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&amp;logo=telegram&amp;logoColor=white" alt="Telegram"/>
-    </td>
-    <td width="33%" valign="top" align="center">
-      <h4><a href="https://github.com/starline/DokerProxyScrapper">DokerProxyScrapper</a></h4>
-      <p>Proxy scraper<br/>Dockerized tooling</p>
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&amp;logo=docker&amp;logoColor=white" alt="Docker"/>
-    </td>
-  </tr>
-</table>
 
 ---
 
