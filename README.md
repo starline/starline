@@ -18,12 +18,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/starline/starline/main/assets/features-strip.png" alt="Remote coding / Follow-ups / Tests / Diff / Real results" width="90%"/>
-</p>
-
----
-
 <h3 align="center">:rocket: Featured: CursorTgBot</h3>
 
 <p align="center">
