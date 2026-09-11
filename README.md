@@ -87,10 +87,10 @@
       <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&amp;logo=php&amp;logoColor=white" alt="PHP"/>
     </td>
     <td width="33%" valign="top" align="center">
-      <h4><a href="https://github.com/starline/Next.js.simple">Next.js.simple</a></h4>
-      <p>Next.js starter<br/>TypeScript front-end</p>
-      <img src="https://img.shields.io/badge/TS-3178C6?style=flat-square&amp;logo=typescript&amp;logoColor=white" alt="TS"/>
-      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&amp;logo=nextdotjs&amp;logoColor=white" alt="Next.js"/>
+      <h4><a href="https://github.com/starline/phpTelegramBotGame">phpTelegramBotGame</a></h4>
+      <p>Telegram game bot<br/>PHP backend</p>
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&amp;logo=php&amp;logoColor=white" alt="PHP"/>
+      <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&amp;logo=telegram&amp;logoColor=white" alt="Telegram"/>
     </td>
     <td width="33%" valign="top" align="center">
       <h4><a href="https://github.com/starline/DokerProxyScrapper">DokerProxyScrapper</a></h4>
