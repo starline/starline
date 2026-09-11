@@ -1,39 +1,112 @@
-<!-- github.com/starline -->
+<!-- github.com/starline - light product style -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/starline/starline/main/assets/banner.png" alt="Andri Huga - starline" width="100%"/>
+  <img src="https://raw.githubusercontent.com/starline/starline/main/assets/banner.png" alt="Andri Huga" width="100%"/>
 </p>
 
-<h1 align="center">Hi, I'm Andri Huga! :wave:</h1>
+<h1 align="center">Hi, I'm Andri Huga :wave:</h1>
 
 <p align="center">
-  <b>Full-stack developer</b> | ecommerce platforms | Chrome extensions | Telegram &amp; AI agents<br/>
-  Based in the US | shipping products under <b>HugaShop</b> / <b>HugSales</b>
+  <b>Full-stack developer</b> building ecommerce, SaaS, and AI agent tools<br/>
+  <code>HugaShop</code> � <code>HugSales</code> � <code>CursorTgBot</code>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=starline&amp;style=flat-square&amp;color=38bdf8" alt="Profile views"/>
-  <img src="https://img.shields.io/github/followers/starline?style=flat-square&amp;logo=github&amp;color=22d3ee&amp;label=followers" alt="Followers"/>
-  <img src="https://img.shields.io/badge/focus-ecommerce%20%7C%20SaaS%20%7C%20automation-34d399?style=flat-square" alt="Focus"/>
+  <img src="https://img.shields.io/badge/focus-ecommerce%20%7C%20SaaS%20%7C%20automation-007AFF?style=flat-square&amp;labelColor=F1F5F9&amp;color=007AFF" alt="Focus"/>
+  <img src="https://img.shields.io/github/followers/starline?style=flat-square&amp;logo=github&amp;labelColor=F1F5F9&amp;color=007AFF&amp;label=followers" alt="Followers"/>
+  <img src="https://komarev.com/ghpvc/?username=starline&amp;style=flat-square&amp;color=007AFF" alt="Profile views"/>
 </p>
 
 ---
 
-<h3 align="center">:hammer_and_wrench: Languages &amp; Tools</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/starline/starline/main/assets/features-strip.png" alt="Remote coding � Follow-ups � Tests � Diff � Real results" width="90%"/>
+</p>
+
+---
+
+<h3 align="center">:rocket: Featured: CursorTgBot</h3>
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,js,ts,python,react,nextjs,nodejs,docker,linux,mysql,postgres,redis,git,github,vscode,html,css,sass" alt="Skills and tools"/>
+  <a href="https://github.com/starline/CursorTgBot">
+    <img src="https://raw.githubusercontent.com/starline/starline/main/assets/cursor-tgbot.png" alt="CursorTgBot - Code from anywhere" width="100%"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&amp;logo=php&amp;logoColor=white" alt="PHP"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&amp;logo=docker&amp;logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&amp;logo=nodedotjs&amp;logoColor=white" alt="Node.js"/>
+  Telegram ? Cursor Agent ? Local Git Repo<br/>
+  Remote coding via <code>/task</code>, follow-ups, <code>/diff</code> and tests.
 </p>
+
+<p align="center">
+  <a href="https://github.com/starline/CursorTgBot">
+    <img src="https://img.shields.io/badge/Open_CursorTgBot-007AFF?style=for-the-badge&amp;logo=telegram&amp;logoColor=white" alt="Open CursorTgBot"/>
+  </a>
+</p>
+
+---
+
+<h3 align="center">:hammer_and_wrench: Stack</h3>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=php,js,ts,python,react,nextjs,nodejs,docker,linux,mysql,postgres,redis,git,github,vscode" alt="Skills and tools"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PHP-F8FAFC?style=for-the-badge&amp;logo=php&amp;logoColor=777BB4" alt="PHP"/>
+  <img src="https://img.shields.io/badge/TypeScript-F8FAFC?style=for-the-badge&amp;logo=typescript&amp;logoColor=3178C6" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Python-F8FAFC?style=for-the-badge&amp;logo=python&amp;logoColor=3776AB" alt="Python"/>
+  <img src="https://img.shields.io/badge/React-F8FAFC?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Docker-F8FAFC?style=for-the-badge&amp;logo=docker&amp;logoColor=2496ED" alt="Docker"/>
+</p>
+
+---
+
+<h3 align="center">:package: Products</h3>
+
+<table>
+  <tr>
+    <td width="33%" valign="top" align="center">
+      <h4><a href="https://github.com/starline/HugaShop">HugaShop</a></h4>
+      <p>Ecommerce CMS<br/>catalog, checkout, storefront</p>
+      <img src="https://img.shields.io/badge/JS-F7DF1E?style=flat-square&amp;logo=javascript&amp;logoColor=black" alt="JS"/>
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&amp;logo=php&amp;logoColor=white" alt="PHP"/>
+    </td>
+    <td width="33%" valign="top" align="center">
+      <h4><a href="https://github.com/starline/HugSalesSaaS">HugSales SaaS</a></h4>
+      <p>Multi-tenant ecommerce<br/>SaaS around HugaShop</p>
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&amp;logo=php&amp;logoColor=white" alt="PHP"/>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&amp;logo=docker&amp;logoColor=white" alt="Docker"/>
+    </td>
+    <td width="33%" valign="top" align="center">
+      <h4><a href="https://github.com/starline/HugaShopReact">HugaShopReact</a></h4>
+      <p>Modern React / TypeScript<br/>storefront front-end</p>
+      <img src="https://img.shields.io/badge/TS-3178C6?style=flat-square&amp;logo=typescript&amp;logoColor=white" alt="TS"/>
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&amp;logo=react&amp;logoColor=black" alt="React"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top" align="center">
+      <h4><a href="https://github.com/starline/CursorTgBot">CursorTgBot</a></h4>
+      <p>Telegram ? Cursor Agent<br/>remote coding on your machine</p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python"/>
+      <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&amp;logo=telegram&amp;logoColor=white" alt="Telegram"/>
+    </td>
+    <td width="33%" valign="top" align="center">
+      <h4><a href="https://github.com/starline/ChromeAutoScraperExtension">Chrome Extensions</a></h4>
+      <p>Scraper, photos, proxy<br/>browser automation</p>
+      <img src="https://img.shields.io/badge/JS-F7DF1E?style=flat-square&amp;logo=javascript&amp;logoColor=black" alt="JS"/>
+      <img src="https://img.shields.io/badge/Chrome-4285F4?style=flat-square&amp;logo=googlechrome&amp;logoColor=white" alt="Chrome"/>
+    </td>
+    <td width="33%" valign="top" align="center">
+      <h4><a href="https://github.com/starline/TelegramPersonalBot">TelegramPersonalBot</a></h4>
+      <p>Personal assistant bot<br/>built with TypeScript</p>
+      <img src="https://img.shields.io/badge/TS-3178C6?style=flat-square&amp;logo=typescript&amp;logoColor=white" alt="TS"/>
+      <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&amp;logo=telegram&amp;logoColor=white" alt="Telegram"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -45,79 +118,16 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=starline&amp;theme=tokyonight&amp;hide_border=true&amp;background=0B1220&amp;ring=22D3EE&amp;fire=34D399&amp;currStreakLabel=22D3EE" alt="GitHub streak"/>
+  <img src="https://streak-stats.demolab.com/?user=starline&amp;theme=default&amp;hide_border=true&amp;background=FFFFFF&amp;ring=007AFF&amp;fire=007AFF&amp;currStreakLabel=007AFF&amp;sideLabels=334155&amp;dates=64748B&amp;currStreakNum=0F172A&amp;sideNums=0F172A" alt="GitHub streak"/>
 </p>
-
----
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/starline/starline/output/github-snake-dark.svg"/>
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/starline/starline/output/github-snake.svg"/>
-    <img alt="github contribution snake" src="https://raw.githubusercontent.com/starline/starline/output/github-snake-dark.svg"/>
+    <img alt="github contribution snake" src="https://raw.githubusercontent.com/starline/starline/output/github-snake.svg"/>
   </picture>
 </p>
-
----
-
-<h3 align="center">:rocket: Featured Projects</h3>
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/starline/HugaShop">HugaShop</a></h4>
-      <p>Ecommerce CMS - product catalog, checkout, and storefront tooling.</p>
-      <p>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&amp;logo=javascript&amp;logoColor=black" alt="JS"/>
-        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&amp;logo=php&amp;logoColor=white" alt="PHP"/>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/starline/HugaShopReact">HugaShopReact</a></h4>
-      <p>Modern React/TypeScript front for the HugaShop ecosystem.</p>
-      <p>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&amp;logo=typescript&amp;logoColor=white" alt="TS"/>
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&amp;logo=react&amp;logoColor=black" alt="React"/>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/starline/CursorTgBot">CursorTgBot</a></h4>
-      <p>Telegram bot that drives a local Cursor agent - remote coding via <code>/task</code>, diffs and tests.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python"/>
-        <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&amp;logo=telegram&amp;logoColor=white" alt="Telegram"/>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/starline/HugSalesSaaS">HugSales SaaS</a></h4>
-      <p>Multi-tenant ecommerce SaaS stack around HugSales / HugaShop.</p>
-      <p>
-        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&amp;logo=php&amp;logoColor=white" alt="PHP"/>
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&amp;logo=docker&amp;logoColor=white" alt="Docker"/>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/starline/ChromeAutoScraperExtension">Chrome Extensions</a></h4>
-      <p>Auto-scraper, photos and proxy helpers for browser automation workflows.</p>
-      <p>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&amp;logo=javascript&amp;logoColor=black" alt="JS"/>
-        <img src="https://img.shields.io/badge/Chrome-4285F4?style=flat-square&amp;logo=googlechrome&amp;logoColor=white" alt="Chrome"/>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/starline/TelegramPersonalBot">TelegramPersonalBot</a></h4>
-      <p>Personal Telegram assistant built with TypeScript.</p>
-      <p>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&amp;logo=typescript&amp;logoColor=white" alt="TS"/>
-        <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&amp;logo=telegram&amp;logoColor=white" alt="Telegram"/>
-      </p>
-    </td>
-  </tr>
-</table>
 
 ---
 
@@ -125,19 +135,19 @@
 <tr>
 <td width="48%" valign="top">
 
-### :sparkles: Focus Areas
+### :sparkles: Focus
 - Ecommerce CMS and multi-account SaaS
 - Browser extensions and scraping pipelines
-- Telegram bots + AI/agent automation
+- Telegram bots + AI / agent automation
 - Dockerized PHP and Node deployments
 
 </td>
 <td width="48%" valign="top">
 
-### :computer: About Me
-I'm a product-minded developer with years of shipping storefronts, CMS platforms, and automation tools. I like turning messy business workflows into clean systems - from HugaShop stores to Cursor-powered agents.
+### :computer: About
+Product-minded developer shipping storefronts, CMS platforms, and automation tools. I turn messy workflows into clean systems - from HugaShop stores to Cursor-powered agents.
 
-Always building, always iterating.
+Always building. Always iterating.
 
 </td>
 </tr>
@@ -145,14 +155,15 @@ Always building, always iterating.
 
 ---
 
-<h3 align="center">:globe_with_meridians: Connect</h3>
-
 <p align="center">
   <a href="https://github.com/starline">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-007AFF?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://github.com/starline?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-0B1220?style=for-the-badge&amp;logo=git&amp;logoColor=22D3EE" alt="Repos"/>
+    <img src="https://img.shields.io/badge/Repositories-F1F5F9?style=for-the-badge&amp;logo=git&amp;logoColor=007AFF" alt="Repos"/>
+  </a>
+  <a href="https://github.com/starline/CursorTgBot">
+    <img src="https://img.shields.io/badge/CursorTgBot-26A5E4?style=for-the-badge&amp;logo=telegram&amp;logoColor=white" alt="CursorTgBot"/>
   </a>
 </p>
 
