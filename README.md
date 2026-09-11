@@ -1,6 +1,6 @@
 <!-- github.com/starline - light product style -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/starline/starline/main/assets/banner.png" alt="Andri Huga" width="100%"/>
+  <img src="https://raw.githubusercontent.com/starline/starline/main/assets/banner.jpg" alt="Andri Huga" width="100%"/>
 </p>
 
 <h1 align="center">Hi, I'm Andri Huga :wave:</h1>
