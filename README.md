@@ -7,7 +7,7 @@
 
 <p align="center">
   <b>Full-stack developer</b> building ecommerce, SaaS, and AI agent tools<br/>
-  <code>CursorTgBot</code> · <code>UscisPyton</code> · <code>ChromeAutoScraperExtension</code>
+  <code>CursorTgBot</code> · <code>UscisPyton</code> · <code>ChromeAutoScraperExtension</code> · <code>GitHubFollowerBot</code>
 </p>
 
 <p align="center">
@@ -65,6 +65,23 @@
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&amp;logo=javascript&amp;logoColor=black" alt="JavaScript"/>
         <img src="https://img.shields.io/badge/Chrome_Extension-4285F4?style=flat-square&amp;logo=googlechrome&amp;logoColor=white" alt="Chrome"/>
         <img src="https://img.shields.io/badge/Manifest_V3-0F172A?style=flat-square" alt="MV3"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top" align="center">
+      <a href="https://github.com/starline/GitHubFollowerBot">
+        <img src="https://raw.githubusercontent.com/starline/starline/main/assets/projects/github-follower-bot.jpg" alt="GitHubFollowerBot preview" width="100%"/>
+      </a>
+      <h3><a href="https://github.com/starline/GitHubFollowerBot">GitHubFollowerBot</a></h3>
+      <p>
+        Local GitHub follower bot with Cursor-focused discovery,
+        profile filters, and a rate-limit-aware follow loop.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python"/>
+        <img src="https://img.shields.io/badge/GitHub_API-181717?style=flat-square&amp;logo=github&amp;logoColor=white" alt="GitHub API"/>
+        <img src="https://img.shields.io/badge/Automation-007AFF?style=flat-square" alt="Automation"/>
       </p>
     </td>
   </tr>
