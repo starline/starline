@@ -7,7 +7,7 @@
 
 <p align="center">
   <b>Full-stack developer</b> building ecommerce, SaaS, and AI agent tools<br/>
-  <code>CursorTgBot</code> · <code>UscisPyton</code> · <code>ChromeAutoScraperExtension</code> · <code>GitHubFollowerBot</code>
+  <code>CursorTgBot</code> · <code>UscisPyton</code> · <code>ChromeAutoScraperExtension</code> · <code>GitHubFollowerBot</code> · <code>VibrationDamper</code>
 </p>
 
 <p align="center">
@@ -82,6 +82,21 @@
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python"/>
         <img src="https://img.shields.io/badge/GitHub_API-181717?style=flat-square&amp;logo=github&amp;logoColor=white" alt="GitHub API"/>
         <img src="https://img.shields.io/badge/Automation-007AFF?style=flat-square" alt="Automation"/>
+      </p>
+    </td>
+    <td width="33%" valign="top" align="center">
+      <a href="https://github.com/starline/VibrationDamper">
+        <img src="https://raw.githubusercontent.com/starline/starline/main/assets/projects/vibration-damper.jpg" alt="VibrationDamper preview" width="100%"/>
+      </a>
+      <h3><a href="https://github.com/starline/VibrationDamper">VibrationDamper</a></h3>
+      <p>
+        Active electronic vibration damper for CNC: STM32 + IMU sensing
+        and dual H-bridge actuators for real-time spindle stabilization.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/STM32-03234B?style=flat-square&amp;logo=stmicroelectronics&amp;logoColor=white" alt="STM32"/>
+        <img src="https://img.shields.io/badge/KiCad-3143A0?style=flat-square" alt="KiCad"/>
+        <img src="https://img.shields.io/badge/Embedded-007AFF?style=flat-square" alt="Embedded"/>
       </p>
     </td>
   </tr>
