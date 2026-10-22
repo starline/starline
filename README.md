@@ -7,7 +7,7 @@
 
 <p align="center">
   <b>Full-stack developer</b> building ecommerce, SaaS, and AI agent tools<br/>
-  <code>CursorTgBot</code> · <code>UscisPyton</code> · <code>ChromeAutoScraperExtension</code> · <code>GitHubFollowerBot</code> · <code>VibrationDamper</code>
+  <code>CursorTgBot</code> · <code>UscisPyton</code> · <code>ChromeAutoScraperExtension</code> · <code>GitHubFollowerBot</code> · <code>VibrationDamper</code> · <code>MicroSip</code>
 </p>
 
 <p align="center">
@@ -97,6 +97,21 @@
         <img src="https://img.shields.io/badge/STM32-03234B?style=flat-square&amp;logo=stmicroelectronics&amp;logoColor=white" alt="STM32"/>
         <img src="https://img.shields.io/badge/KiCad-3143A0?style=flat-square" alt="KiCad"/>
         <img src="https://img.shields.io/badge/Embedded-007AFF?style=flat-square" alt="Embedded"/>
+      </p>
+    </td>
+    <td width="33%" valign="top" align="center">
+      <a href="https://github.com/starline/MicroSip">
+        <img src="https://raw.githubusercontent.com/starline/starline/main/assets/projects/microsip.jpg" alt="MicroSip preview" width="100%"/>
+      </a>
+      <h3><a href="https://github.com/starline/MicroSip">MicroSip</a></h3>
+      <p>
+        Patch for the MicroSIP softphone: show the SIP account label
+        on incoming calls and keep the patched build from being overwritten.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&amp;logo=cplusplus&amp;logoColor=white" alt="C++"/>
+        <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&amp;logo=windows&amp;logoColor=white" alt="Windows"/>
+        <img src="https://img.shields.io/badge/SIP-0F172A?style=flat-square" alt="SIP"/>
       </p>
     </td>
   </tr>
